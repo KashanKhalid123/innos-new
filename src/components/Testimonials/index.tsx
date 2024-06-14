@@ -41,9 +41,9 @@ const Testimonials = () => {
     <section className="bg-gray-1 py-20 dark:bg-dark-2 md:py-[120px]">
       <div className="container px-4">
         <SectionTitle
-          subtitle="Testimonials"
-          title="What our Client Say"
-          paragraph="Real Results with Innoscribe AI"
+          subtitle="Attester"
+          title="Hva vår klient sier"
+          paragraph="Virkelige resultater med Innoscribe AI"
           width="640px"
           center
         />
