@@ -17,7 +17,9 @@ const Pricing = () => {
           <SectionTitle
             subtitle="Pristabell"
             title="Vår prisplan"
-            paragraph="Innoscribe forstår at hver virksomhet har unike krav. Det er derfor vi tilbyr fleksible prisplaner for våre AI-løsninger, som sikrer at du får den perfekte passformen for budsjettet og målene dine."
+            paragraph="Hos Innoscribe forstår vi at hver virksomhet har unike behov. Derfor tilbyr vi fleksible
+prisplaner for våre AI-løsninger, slik at du kan finne den perfekte løsningen som passer både
+budsjettet og målene dine."
             center
           />
         </div>
