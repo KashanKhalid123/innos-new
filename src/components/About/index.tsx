@@ -36,7 +36,7 @@ La Innoscribe hjelpe deg med å låse opp AI's potensiale og transformere virkso
                   href="/contact"
                   className="inline-flex items-center justify-center rounded-md bg-[#58c0c2] px-7 py-3 text-center text-base font-medium text-white duration-300 hover:bg-[#58c0c2]/90"
                 >
-                  La oss snakke
+                  Kontakt oss
                 </a>
               </div>
             </div>
