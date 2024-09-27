@@ -19,8 +19,18 @@ const About = () => {
                 Innovér, automatiser, optimaliser: Hvordan Innoscribe AI-løsninger styrker deg
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                Innoscribe gir bedrifter en komplett pakke med AI-løsninger. Våre intelligente AI-assistenter og chatboter, drevet av GPT-teknologi, gir 24/7 kundestøtte, automatiserer oppgaver og tilpasser interaksjoner.  For unike programvarebehov lager utviklingsteamet vårt tilpassede applikasjoner, integrerer bedriftsprogramvare og bygger mobilapper. <br /><br /> Innoscribe prioriterer sømløs integrasjon, og sikrer at alle våre løsninger fungerer sammen og med din eksisterende infrastruktur. Til slutt utnytter vi data og analyser fra AI-interaksjoner for å gi verdifull innsikt for kontinuerlig forbedring og strategiske beslutninger. La Innoscribe hjelpe deg å låse opp kraften til AI for å transformere virksomheten din.
-                </p>
+               Innoscribe tilbyr en komplett pakke med avanserte AI-løsninger som hjelper bedrifter å liggei forkant.
+Våre intelligente AI-assistenter og chatboter, drevet av banebrytende GPT-teknologi, gir 24/7
+kundestøtte, automatiserer rutineoppgaver, og tilpasser interaksjoner for en personlig
+kundeopplevelse.
+For bedrifter med spesifikke behov utvikler vårt erfarne team skreddersydde applikasjoner,
+integrerer eksisterende bedriftsprogramvarer, og bygger mobilapper som løfter
+brukeropplevelsen.
+Innoscribe setter sømløs integrasjon i høysetet, og sørger for at alle våre løsninger fungerer
+i harmoni med din eksisterende infrastruktur.
+Vi bruker data og innsikt fra AI-interaksjoner for kontinuerlig forbedring og informerte
+strategiske beslutninger.
+La Innoscribe hjelpe deg med å låse opp AI's potensiale og transformere virksomheten din.                </p>
 
                 <a
                   href="/contact"
