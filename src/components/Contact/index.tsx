@@ -13,10 +13,10 @@ const Contact = () => {
             <div className="ud-contact-content-wrapper">
               <div className="ud-contact-title mb-12 lg:mb-[150px]">
                 <span className="mb-6 block text-base font-medium text-dark dark:text-white">
-                KONTAKT OSS
+                Hvordan kan vi hjelpe?
                 </span>
                 <h2 className="max-w-[260px] text-[35px] font-semibold leading-[1.14] text-dark dark:text-white">
-                La&#39;s snakk om problemet ditt.
+                Ta kontakt for å diskutere dine behov.
                 </h2>
               </div>
               <div className="mb-12 flex flex-wrap justify-between lg:mb-0">
@@ -34,10 +34,10 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="mb-[18px] text-lg font-semibold text-dark dark:text-white">
-                    Vår plassering
+                    Vår plassering to
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6 ">
-                    Oslo Norge
+                    Hovedkontor, Niels Juels Gate 70 Oslo Norway
                     </p>
                   </div>
                 </div>
@@ -54,7 +54,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="mb-[18px] text-lg font-semibold text-dark dark:text-white">
-                    Hvordan kan vi hjelpe?
+                    Kontakt oss
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
                       contact@innoscribe.no
@@ -84,7 +84,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="fullName"
-                    placeholder="Adam Gelius"
+                    placeholder="Ola Normann"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-[#58c0c2] focus:outline-none dark:border-dark-3 dark:text-white"
                   />
                 </div>
@@ -98,7 +98,7 @@ const Contact = () => {
                   <input
                     type="email"
                     name="email"
-                    placeholder="example@yourmail.com"
+                    placeholder="eksempel@dinepost.no"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-[#58c0c2] focus:outline-none dark:border-dark-3 dark:text-white"
                   />
                 </div>
@@ -113,7 +113,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="phone"
-                    placeholder="+885 1254 5211 552"
+                    placeholder="+47 123 45 678"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-[#58c0c2] focus:outline-none dark:border-dark-3 dark:text-white"
                   />
                 </div>
@@ -122,12 +122,12 @@ const Contact = () => {
                     htmlFor="message"
                     className="mb-4 block text-sm text-body-color dark:text-dark-6"
                   >
-                    Beskjed*
+                    Melding*
                   </label>
                   <textarea
                     name="message"
                     rows={1}
-                    placeholder="type your message here"
+                    placeholder="skriv her"
                     className="w-full resize-none border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-[#58c0c2] focus:outline-none dark:border-dark-3 dark:text-white"
                   ></textarea>
                 </div>
@@ -136,7 +136,7 @@ const Contact = () => {
                     type="submit"
                     className="inline-flex items-center justify-center rounded-md bg-[#58c0c2] px-10 py-3 text-base font-medium text-white transition duration-300 ease-in-out hover:bg-[#58c0c2]/90"
                   >
-                    Sende
+                    Send
                   </button>
                 </div>
               </form>
