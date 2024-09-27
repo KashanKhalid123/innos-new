@@ -10,8 +10,8 @@ const Faq = () => {
     <section className="relative z-20 overflow-hidden bg-white pb-8 pt-20 dark:bg-dark lg:pb-[50px] lg:pt-[120px]">
       <div className="container">
         <SectionTitle
-          subtitle="FAQ"
-          title="Noen spørsmål? Besvart"
+          subtitle="Vanlige spørsmål"
+          title="Lurer du på noe? Vi har svarene."
           paragraph=""
           width="640px"
           center
@@ -44,7 +44,9 @@ const Faq = () => {
             />
             <SingleFaq
               question="Hvordan sikrer Innoscribe datasikkerhet?"
-              answer="Vi tar datasikkerhet svært alvorlig og følger strenge industristandarder."
+              answer="Innoscribe sikrer datasikkerhet gjennom avansert kryptering, strenge tilgangskontroller,
+regelmessige sikkerhetsrevisjoner, sikre skyløsninger, og overholdelse av personvernlover
+som GDPR."
             />
           </div>
         </div>
