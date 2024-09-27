@@ -16,7 +16,7 @@ const About = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
-                Innovér, automatiser, optimaliser: Hvordan Innoscribe AI-løsninger styrker deg.
+                Innovér, automatiser, optimaliser: Slik styrker Innoscribe AI-løsninger din bedrift.
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
                Innoscribe tilbyr en komplett pakke med avanserte AI-løsninger som hjelper bedrifter å liggei forkant. Våre intelligente AI-assistenter og chatboter, drevet av banebrytende GPT-teknologi, gir 24/7 kundestøtte, automatiserer rutineoppgaver, og tilpasser interaksjoner for en personlig kundeopplevelse. For bedrifter med spesifikke behov utvikler vårt erfarne team skreddersydde applikasjoner,integrerer eksisterende bedriftsprogramvarer, og bygger mobilapper som løfter brukeropplevelsen. Innoscribe setter sømløs integrasjon i høysetet, og sørger for at alle våre løsninger fungerer i harmoni med din eksisterende infrastruktur.Vi bruker data og innsikt fra AI-interaksjoner for kontinuerlig forbedring og informerte strategiske beslutninger. La Innoscribe hjelpe deg med å låse opp AI potensiale og transformere virksomheten din.</p>
