@@ -64,7 +64,7 @@ const PricingBox = ({ product }: { product: Price }) => {
 
 
 
-          Planlegg møte
+          Book et møte
 
           </Link>
         </div>
