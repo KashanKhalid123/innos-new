@@ -34,10 +34,10 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="mb-[18px] text-lg font-semibold text-dark dark:text-white">
-                    Vår plassering to
+                     Hovedkontor
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6 ">
-                    Hovedkontor, Niels Juels Gate 70 Oslo Norway
+                    Niels Juels Gate 70 Oslo Norway
                     </p>
                   </div>
                 </div>
@@ -71,7 +71,7 @@ const Contact = () => {
               "
             >
               <h3 className="mb-8 text-2xl font-semibold text-dark dark:text-white md:text-[28px] md:leading-[1.42]">
-              Send oss ​​en melding
+              Send oss ​​en melding!
               </h3>
               <form action="https://formspree.io/f/moqgylzg" method="POST">
                 <div className="mb-[22px]">
@@ -79,7 +79,7 @@ const Contact = () => {
                     htmlFor="fullName"
                     className="mb-4 block text-sm text-body-color dark:text-dark-6"
                   >
-                    Fullt navn*
+                     Navn*
                   </label>
                   <input
                     type="text"
@@ -98,7 +98,7 @@ const Contact = () => {
                   <input
                     type="email"
                     name="email"
-                    placeholder="eksempel@dinepost.no"
+                    placeholder="eksempel@din-epost.no"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-[#58c0c2] focus:outline-none dark:border-dark-3 dark:text-white"
                   />
                 </div>
@@ -113,7 +113,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="phone"
-                    placeholder="+47 123 45 678"
+                    placeholder="+47 000 00 000"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-[#58c0c2] focus:outline-none dark:border-dark-3 dark:text-white"
                   />
                 </div>
