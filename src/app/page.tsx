@@ -13,8 +13,8 @@ import { Metadata } from "next";
 import VoiceflowChatbot from '@/components/VoiceflowChatbot';
 
 export const metadata: Metadata = {
-  title: "INNOSCRIBE",
-  description: "",
+  title: "Innoscribe",
+  description: "Elevate your conversation with Ai",
 };
 
 export default function Home() {
