@@ -15,11 +15,11 @@ const Pricing = () => {
       <div className="container">
         <div className="mb-[60px]">
           <SectionTitle
-            subtitle="Pristabell"
-            title="Våre prisplaner"
-            paragraph="Hos Innoscribe forstår vi at hver virksomhet har unike behov. Derfor tilbyr vi fleksible
-prisplaner for våre AI-løsninger, slik at du kan finne den perfekte løsningen som passer både
-budsjettet og målene dine."
+            subtitle=" Enkle og Fleksible Priser"
+            title=" Finn den perfekte løsningen for din virksomhet!"
+            paragraph=" Hos Innoscribe tilbyr vi fleksible prisplaner tilpasset dine behov. Velg den
+ løsningen som passer best for deg, og oppdag hvor enkelt det er å bruke
+ AI for å nå dine mål"
             center
           />
         </div>
