@@ -3,7 +3,7 @@ import { Price } from "@/types/price";
 export const pricingData: Price[] = [
   {
     id: "price_1NQk5TLtGdPVhGLecVfQ7mn0",
-    unit_amount: 0-0 ,
+    unit_amount: ≈ ,
     nickname: "GPT-drevne AI Chatbots",
     offers: [
      "Naturlig språkbehandling (NLP)",
