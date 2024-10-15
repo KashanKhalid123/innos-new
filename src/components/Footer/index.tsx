@@ -25,7 +25,7 @@ const Footer = () => {
                 />
               </Link>
               <p className="mb-8 max-w-[270px] text-base text-gray-7">
-              Velkommen til InnoScribe – løft samtalene dine med AI!
+               InnoScribe– Oppdatér bedriften din med AI
               </p>
               <div className="-mx-3 flex items-center">
                 <a
@@ -100,7 +100,7 @@ const Footer = () => {
           <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
-                About Us
+                Utforsk
               </h4>
               <ul>
                 <li>
@@ -108,7 +108,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Home
+                    Hjem
                   </a>
                 </li>
                 <li>
@@ -116,7 +116,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Features
+                    Omoss
                   </a>
                 </li>
                 <li>
@@ -124,7 +124,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    About
+                    Funksjoner
                   </a>
                 </li>
                 <li>
@@ -132,7 +132,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Testimonial
+                    Tjenester
                   </a>
                 </li>
               </ul>
@@ -141,7 +141,7 @@ const Footer = () => {
           <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-3/12 xl:w-2/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
-                Features
+                Funksjoner
               </h4>
               <ul>
                 <li>
@@ -149,7 +149,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    How it works
+                    Hvordan det fungerer
                   </a>
                 </li>
                 <li>
@@ -157,7 +157,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Privacy policy
+                    Personvernerklæring
                   </a>
                 </li>
                 <li>
@@ -165,7 +165,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Terms of Service
+                    Vilkår for bruk
                   </a>
                 </li>
                 <li>
@@ -173,7 +173,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Refund policy
+                    Refusjonspolicy
                   </a>
                 </li>
               </ul>
@@ -182,7 +182,7 @@ const Footer = () => {
           <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-3/12 xl:w-2/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
-                Our Services
+               Tjenester
               </h4>
               <ul>
                 <li>
@@ -190,7 +190,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    AI Calling
+                    AITelefoni
                   </a>
                 </li>
                 <li>
@@ -206,7 +206,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Software Development
+                    Programvareutvikling
                   </a>
                 </li>
                 <li>
@@ -214,7 +214,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Mobile Development
+                    Mobilutvikling
                   </a>
                 </li>
               </ul>
@@ -223,7 +223,7 @@ const Footer = () => {
           <div className="w-full px-4 md:w-2/3 lg:w-6/12 xl:w-3/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
-                Useful Links
+                Hjelp
               </h4>
               <ul>
                 <li>
@@ -239,7 +239,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Blogs
+                    Blogg
                   </a>
                 </li>
                 <li>
@@ -247,7 +247,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    Support
+                    Kundestøtte
                   </a>
                 </li>
                 <li>
@@ -255,7 +255,7 @@ const Footer = () => {
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-[#58c0c2]"
                   >
-                    About
+                    
                   </a>
                 </li>
               </ul>
@@ -274,19 +274,19 @@ const Footer = () => {
                     href="/#"
                     className="px-3 text-base text-gray-7 hover:text-white hover:underline"
                   >
-                    Privacy policy
+                     Personvernregler
                   </a>
                   <a
                     href="/#"
                     className="px-3 text-base text-gray-7 hover:text-white hover:underline"
                   >
-                    Legal notice
+                    Juridisk merknad
                   </a>
                   <a
                     href="/#"
                     className="px-3 text-base text-gray-7 hover:text-white hover:underline"
                   >
-                    Terms of service
+                    Brukervilkår
                   </a>
                 </div>
               </div>
