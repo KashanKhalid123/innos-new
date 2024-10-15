@@ -16,10 +16,9 @@ const About = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
-                Innovér, automatiser, optimaliser: Slik styrker Innoscribe AI-løsninger din bedrift.
+                Transformér Bedriften Din med Innoscribes AI-løsninger
                 </h2>
-                <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-               Innoscribe tilbyr en komplett pakke med avanserte AI-løsninger som hjelper bedrifter å liggei forkant. Våre intelligente AI-assistenter og chatboter, drevet av banebrytende GPT-teknologi, gir 24/7 kundestøtte, automatiserer rutineoppgaver, og tilpasser interaksjoner for en personlig kundeopplevelse. For bedrifter med spesifikke behov utvikler vårt erfarne team skreddersydde applikasjoner,integrerer eksisterende bedriftsprogramvarer, og bygger mobilapper som løfter brukeropplevelsen. Innoscribe setter sømløs integrasjon i høysetet, og sørger for at alle våre løsninger fungerer i harmoni med din eksisterende infrastruktur.Vi bruker data og innsikt fra AI-interaksjoner for kontinuerlig forbedring og informerte strategiske beslutninger. La Innoscribe hjelpe deg med å låse opp AI potensiale og transformere virksomheten din.</p>
+                <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6"> Hos Innoscribe gir vi bedrifter muligheten til å innovere, automatisere og optimalisere sine operasjoner gjennom banebrytende AI-løsninger. Våre avanserte AI-assistenter og chatboter, drevet av den nyeste GPT-teknologien, tilbyr 24/7 kundestøtte, automatiserer rutineoppgaver og tilpasser interaksjoner for å forbedre kundeopplevelsen. Vi forstår at hver bedrift har unike behov. Derfor spesialiserer vårt erfarne team seg på å utvikle skreddersydde applikasjoner, integrere med eksisterende programvare og lage mobilapper som hever brukerengasjementet. Vi prioriterer sømløs integrasjon, noe som sikrer at våre løsninger fungerer i perfekt harmoni med din nåværende infrastruktur. Ved å utnytte data og innsikt fra AI-interaksjoner hjelper vi deg med kontinuerlig forbedring og informerte strategiske beslutninger. Med Innoscribe kan du låse opp det fulle potensialet av AI og transformere virksomheten din til en mer effektiv og kundeorientert organisasjon. La oss vise deg hvordan Innoscribe kan være katalysatoren for veksten i selskapet ditt. Oppdag fremtiden for næringslivet med oss, og ta det første steget mot innovasjon i dag!</p>
 
                 <a
                   href="/contact"
@@ -58,7 +57,7 @@ const About = () => {
                   <div className="relative z-10 mb-4 flex items-center justify-center overflow-hidden bg-[#58c0c2] px-6 py-12 sm:mb-8 sm:h-[160px] sm:p-5 lg:mb-4 xl:mb-8">
                     <div>
                       <span className="block text-5xl font-extrabold text-white">
-                        02
+                        07
                       </span>
                       <span className="block text-base font-semibold text-white">
                       Vi har
