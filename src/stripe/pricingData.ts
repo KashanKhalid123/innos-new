@@ -3,7 +3,7 @@ import { Price } from "@/types/price";
 export const pricingData: Price[] = [
   {
     id: "price_1NQk5TLtGdPVhGLecVfQ7mn0",
-    unit_amount: ≈ ,
+    unit_amount: 0-0 ,
     nickname: "GPT-drevne AI Chatbots",
     offers: [
      "Naturlig språkbehandling (NLP)",
@@ -17,7 +17,7 @@ export const pricingData: Price[] = [
   {
     id: "price_1NQk55LtGdPVhGLefU8AHqHr",
     unit_amount: 0-0 ,
-    nickname: "AI Voice Calling Assistants",
+    nickname: " AI Møtebooking og selvdrevne telefonsamtaler",
     offers: [
       "Smart planlegging",
       "Automatiske påminnelser",
@@ -30,7 +30,7 @@ export const pricingData: Price[] = [
   {
     id: "price_1NQk4eLtGdPVhGLeZsZDsCNz",
     unit_amount: 0-0 ,
-    nickname: "AI Agentutvikling",
+    nickname: "og recepsjonist",
     offers: [
       "Målorientert oppførsel",
       "Adaptiv læring",
