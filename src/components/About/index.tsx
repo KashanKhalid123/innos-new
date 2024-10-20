@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
 import { Fade } from "react-awesome-reveal";
-
 const About = () => {
   return (
     <>
@@ -19,7 +18,6 @@ const About = () => {
                 Transformér Bedriften Din med Innoscribes AI-løsninger
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6"> AI-løsninger som driver innovasjon Vi hjelper bedrifter med å automatisere, optimalisere og innovere ved bruk av AI. Kundestøtte døgnet rundt Våre AI-assistenter og chatboter gir 24/7 kundeservice. Skreddersydd teknologi for din bedrift Vi utvikler tilpassede AI-applikasjoner som passer dine behov. Sømløs integrasjon Våre løsninger fungerer perfekt med din eksisterende programvare og infrastruktur. Data og innsikt for smartere beslutninger Vi bruker AI-data for kontinuerlig forbedring og strategisk planlegging. Økt kundeengasjement Våre løsninger forbedrer kundeopplevelsen og øker engasjementet. Fremtidens næringsliv, i dag Ta det første steget mot AI-drevet vekst og innovasjon med Innoscribe </p>
-
                 <a
                   href="/contact"
                   className="inline-flex items-center justify-center rounded-md bg-[#58c0c2] px-7 py-3 text-center text-base font-medium text-white duration-300 hover:bg-[#58c0c2]/90"
