@@ -4,7 +4,7 @@ import { Fade } from "react-awesome-reveal";
 
 const About = () => {
   return (
-    <>
+    
     <Fade duration={2000}>
     <section
       id="about"
