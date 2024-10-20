@@ -1,5 +1,6 @@
 import About from "@/components/About";
 import Breadcrumb from "@/components/Common/Breadcrumb";
+import Faq from "@/components/Faq";
 import Team from "@/components/Team";
 import { Metadata } from "next";
 
@@ -14,6 +15,7 @@ const AboutPage = () => {
     <main>
       <Breadcrumb pageName="Om oss" />
       <About />
+       <Faq />
       {/* <Team /> */}
     </main>
   );
