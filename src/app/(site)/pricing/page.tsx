@@ -1,5 +1,4 @@
 import Breadcrumb from "@/components/Common/Breadcrumb";
-import Faq from "@/components/Faq";
 import Pricing from "@/components/Pricing";
 import { Metadata } from "next";
 
@@ -14,7 +13,6 @@ const PricingPage = () => {
     <>
       <Breadcrumb pageName="Priser" />
       <Pricing />
-      <Faq />
     </>
   );
 };
